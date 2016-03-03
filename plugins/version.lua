@@ -3,13 +3,13 @@ do
 function run(msg, matches)
   return 'NOD32-BOT v8'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @amir13137878 ⚡
   
-  Channel : @Nod32team
+  Channel : @telejian100 ⚡
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Supergroup update very soon🚀
   
-  NOD32 VERSION 8
+  نسخه:1.13(´⊙ω⊙`)
   
   All rights reserved.
   __________________]]
