@@ -321,7 +321,7 @@ ch: @telejian100
 ]],
     help_text = [[
 TelejianCommands list :
- 
+  🚀🚀🚀
 1-banhammer list ^
  
 !kick [username|id]
@@ -499,10 +499,6 @@ TelejianCommands list :
 !filterlist
 لیست کلمات فیلتر شده
 
-11-bot number & support ^
-
-!botnumber
-دریافت شماره ربات
 
 !support
 دعوت سازنده ربات به گروه
