@@ -244,14 +244,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {123755887},--Sudo users
+	    sudo_users = {99711576},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @telejian100
-sodu : @amir13137878
+channel : @lovepicture2
+sodu : @alikhalili33
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -513,9 +513,8 @@ TelejianCommands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-brodcast for telejianbot🔥
-اطلاع رسانی ربات تله جیان🔥
-@telejian100
+brodcast for zeezee🔥
+@zeezee234
 
 ]]
    }
